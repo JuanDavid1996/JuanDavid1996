@@ -4,7 +4,7 @@ Mobile Developer
 -----------------------------
 
 - 👀 I’m interested in flutter/android/iOS
-- 🌱 I’m currently learning flutter/iOS
+- 🌱 I’m currently learning iOS
 - 💞️ I’m looking to collaborate on flutter
 - 📫 How to reach me juan.zubiria.torrenegra@gmail.com
 - 🚀 I'm currently working on [Studio Genesis](https://www.studiogenesis.es/)
